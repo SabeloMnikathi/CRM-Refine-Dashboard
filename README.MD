@@ -14,9 +14,6 @@
   <h3 align="center">A CRM Dashboard</h3>
 </div>
 
-## 🤖 Introduction
-
-React-based CRM dashboard featuring comprehensive authentication, antd charts, sales management, and a fully operational kanban board with live updates for real-time actions across all devices.
 
 ## ⚙️ Tech Stack
 
