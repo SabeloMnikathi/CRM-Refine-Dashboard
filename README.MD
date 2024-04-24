@@ -12,14 +12,13 @@
   </div>
 
   <h3 align="center">A CRM Dashboard</h3>
+</div>
 
-
-
-## <a name="introduction">🤖 Introduction</a>
+## 🤖 Introduction
 
 React-based CRM dashboard featuring comprehensive authentication, antd charts, sales management, and a fully operational kanban board with live updates for real-time actions across all devices.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## ⚙️ Tech Stack
 
 - React.js
 - TypeScript
@@ -29,7 +28,7 @@ React-based CRM dashboard featuring comprehensive authentication, antd charts, s
 - Codegen
 - Vite
 
-## <a name="features">🔋 Features</a>
+## 🔋 Features
 
 👉 **Authentication**: Seamless onboarding with secure login and signup functionalities; robust password recovery ensures a smooth authentication experience.
 
@@ -46,5 +45,7 @@ React-based CRM dashboard featuring comprehensive authentication, antd charts, s
 👉 **Responsive**: Full responsiveness across devices for consistent user experience; fluid design adapts seamlessly to various screen sizes, ensuring accessibility.
 
 and many more, including code architecture and reusability 
+
+---
 
 Sabelo Mnikathi.
